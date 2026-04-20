@@ -54,15 +54,15 @@ These decisions are evaluated under **actual tariff scenarios**.
 
 ## Repository Structure
 
+```text
 Tariff-Analysis/
 │
-├── scenario_generator.py # Generates tariff and misinformation scenarios
-├── gurobi_tariff_misinfo_model.py # Optimization model (Gurobi)
-├── dataset_template.xlsx # Structured input data
-├── results/ # Computational outputs and experiment results
+├── scenario_generator.py            # Generates tariff and misinformation scenarios
+├── gurobi_tariff_misinfo_model.py   # Optimization model (Gurobi)
+├── dataset_template.xlsx            # Structured input data
+├── results/                         # Computational outputs and experiment results
 ├── README.md
 └── .gitignore
-
 
 ---
 

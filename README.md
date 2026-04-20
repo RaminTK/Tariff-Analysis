@@ -63,7 +63,7 @@ Tariff-Analysis/
 ├── results/                         # Computational outputs and experiment results
 ├── README.md
 └── .gitignore
-
+```
 ---
 
 ## Data and Scenario Design

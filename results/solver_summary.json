@@ -1,0 +1,11 @@
+{
+  "status": 2,
+  "objective_value": 124554.99999999997,
+  "num_variables": 420,
+  "num_constraints": 156,
+  "suppliers": 3,
+  "warehouses": 3,
+  "demand_zones": 3,
+  "signals": 4,
+  "tariff_scenarios": 4
+}
